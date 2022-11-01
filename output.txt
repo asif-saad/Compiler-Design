@@ -1,0 +1,48 @@
+Protocol named: 'str' created with 2 variables
+protocol of type:'str' variable:'a' declared
+declaring func named:  'ab' with return type:void and 2 parameters
+	function body section begins
+variable initialisation
+	function ended
+declaring func named:  'abc' with return type:integer and 0 parameters
+	function body section begins
+integer variable declared
+value in console --> 'abc' variable
+	function ended
+number of muliline comments: 4
+multi-line comment ended
+single line comment
+integer variable declared
+float variable declared
+long variable declared
+input from console --> 'j40' variable
+value in console --> 'j40' variable
+variable initialisation
+if block stated
+	if block body section begins
+variable initialisation
+	if block ended
+else if block stated
+	else if block body section begins
+variable initialisation
+	else if block ended
+else section begins
+	else block body section begins
+double variable declared
+	else block ended
+short datatype variable declared
+variable initialisation
+while loop started
+	while loop body section begins
+single line comment
+
+increment operation
+decrement operationif block stated
+	if block body section begins
+value in console --> 'sd' variable
+	if block ended
+	while loop ended
+double variable declared
+variable initialisation
+variable initialisation
+returning from the current context 

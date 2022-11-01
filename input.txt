@@ -1,0 +1,53 @@
+protocol str{
+    4bytes a;
+    8bytes b;
+}
+protocol str a
+nullified func ab(f4bytes dfd=344,f4bytes dfd=344,)
+{
+    dfd=dfd_add_34
+}
+4bytes func abc()
+{
+    4bytes abc
+    print(abc)
+}
+#* comment
+multi
+line
+ *#
+## single comment
+4bytes a[12]
+f4bytes j
+l4bytes j40
+scan(&j40)
+print(j40)
+c=34
+assume(i<<<3)
+{
+    i=i_sub_j
+}
+unless(i<<=10)
+{
+    j=j_mul_4
+}
+otherwise
+{
+    8bytes z
+}
+16bits x
+x=43
+when x<<=10,x_add_=3;
+{
+    ## do some printing operation
+    j++
+    j--
+    assume(j<<<10)
+    {
+        print(sd)
+    }
+}
+8bytes r
+r=r_div_3
+r=r_remainder_6
+yield 1
